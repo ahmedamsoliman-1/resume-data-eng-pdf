@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/resume-data-eng-pdf/static/css/main.d03cff65.css",
+    "main.js": "/resume-data-eng-pdf/static/js/main.ffc03ff3.js",
+    "static/js/453.f19e9853.chunk.js": "/resume-data-eng-pdf/static/js/453.f19e9853.chunk.js",
+    "index.html": "/resume-data-eng-pdf/index.html",
+    "main.d03cff65.css.map": "/resume-data-eng-pdf/static/css/main.d03cff65.css.map",
+    "main.ffc03ff3.js.map": "/resume-data-eng-pdf/static/js/main.ffc03ff3.js.map",
+    "453.f19e9853.chunk.js.map": "/resume-data-eng-pdf/static/js/453.f19e9853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d03cff65.css",
+    "static/js/main.ffc03ff3.js"
+  ]
+}
